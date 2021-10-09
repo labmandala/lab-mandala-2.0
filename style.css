@@ -3271,9 +3271,12 @@ html[xmlns] .slider-wrap {
 		padding: 0 30px;
 	}
 
-	#header.transparent-header.full-header #header-wrap,
-	.portfolio-feature {
+	#header.transparent-header.full-header #header-wrap {
 		border-bottom: 1px solid rgba(0,0,0,0.1);
+	}
+
+	.portfolio-feature {
+		border: 3px ridge rgba(0,0,0,0.1);
 	}
 
 	#slider + #header.transparent-header.full-header #header-wrap {
