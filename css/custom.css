@@ -3,6 +3,17 @@
 
 	Add all your Custom Styled CSS here for New Styles or
 	Overwriting Default Theme Styles for Better Handling Updates
------------------------------------------------------------------*/
+----------------------------------------------------------------- */
 
+.swiper_wrapper .swiper-slide {
+	background-color: rgba(0, 0, 0, 0.7); /* darken shadow opacity layer on hero */
+}
+
+.remove-space {
+	margin-bottom: 0; /* remove extra spaces especially between headings*/
+}
+
+.portfolio-feature {
+	border: 3px ridge rgba(0,0,0,0.1);
+}
 

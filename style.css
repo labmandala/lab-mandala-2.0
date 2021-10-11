@@ -3275,10 +3275,6 @@ html[xmlns] .slider-wrap {
 		border-bottom: 1px solid rgba(0,0,0,0.1);
 	}
 
-	.portfolio-feature {
-		border: 3px ridge rgba(0,0,0,0.1);
-	}
-
 	#slider + #header.transparent-header.full-header #header-wrap {
 		border-top: 1px solid rgba(0,0,0,0.1);
 		border-bottom: none;
@@ -5740,7 +5736,6 @@ body:not(.stretched) .slider-parallax .slider-inner { left: auto; }
 	position: relative;
 	margin: 0;
 	overflow: hidden;
-	background-color: rgba(0, 0, 0, 0.7); /* darken shadow opacity layer */
 }
 
 .swiper-slide-bg {
@@ -13694,10 +13689,6 @@ h3.titular-title { font-size: 2rem; }
 .heading-block.border-bottom-0::after { display: none; }
 
 .heading-block.border-color::after { border-color: #1ABC9C; }
-
-.remove-space {
-	margin-bottom: 0;
-}
 
 
 /* Emphasis Title
