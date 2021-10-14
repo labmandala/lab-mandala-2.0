@@ -5,7 +5,8 @@
 	Overwriting Default Theme Styles for Better Handling Updates
 ----------------------------------------------------------------- */
 
-.swiper_wrapper .swiper-slide {
+.swiper_wrapper .swiper-slide,
+.clients-background {
 	background-color: rgba(0, 0, 0, 0.7); /* darken shadow opacity layer on hero */
 }
 
