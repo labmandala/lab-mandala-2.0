@@ -5,9 +5,8 @@
 	Overwriting Default Theme Styles for Better Handling Updates
 ----------------------------------------------------------------- */
 
-.swiper_wrapper .swiper-slide,
-.clients-background {
-	background-color: rgba(0, 0, 0, 0.7); /* darken shadow opacity layer on hero */
+.swiper-slide {
+	background-color: rgba(0, 0, 0, 0.6); /* darken shadow opacity layer on hero */
 }
 
 .remove-space {
@@ -18,3 +17,4 @@
 	border: 3px ridge rgba(0,0,0,0.1);
 }
 */
+
