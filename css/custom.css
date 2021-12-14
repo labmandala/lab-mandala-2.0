@@ -18,3 +18,56 @@
 }
 */
 
+::selection,
+::-moz-selection,
+::-webkit-selection {
+	background: #26676b;
+}
+
+.dark .menu-item:hover > .menu-link, .dark .menu-item.current > .menu-link {
+	color: #26676b;
+}
+
+.menu-item:hover > .menu-link, .menu-item.current > .menu-link {
+	color: #26676b;
+}
+
+h6 > span:not(.nocolor):not(.badge) { color: #26676b; }
+
+.bg-color,
+.bg-color #header-wrap { background-color: #26676b !important; }
+
+.color { color: #26676b !important; }
+
+.border-color { border-color: #26676b !important; }
+
+.comment-content .comment-author a:hover { color: #26676b; }
+
+.product-title h3 a:hover,
+.single-product .product-title h2 a:hover { color: #26676b; }
+
+.button.button-dark:hover { background-color: #26676b; }
+
+.fbox-icon i,
+.fbox-icon img {
+	background-color: #26676b;
+}
+
+a {
+	color: #26676b;
+}
+.more-link {
+	border-bottom: 1px solid #26676b;
+}
+
+#gotoTop:hover {
+	background-color: #26676b;
+}
+
+.dark .entry-title h2 a:hover, .dark .entry-title h3 a:hover, .dark .entry-title h4 a:hover {
+	color: #26676b;
+}
+
+.entry-title h2 a:hover, .entry-title h3 a:hover, .entry-title h4 a:hover {
+	color: #26676b;
+}
