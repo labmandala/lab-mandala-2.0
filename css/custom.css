@@ -64,10 +64,40 @@ a {
 	background-color: #26676b;
 }
 
-.dark .entry-title h2 a:hover, .dark .entry-title h3 a:hover, .dark .entry-title h4 a:hover {
+.dark .entry-title h2 a:hover,
+.dark .entry-title h3 a:hover,
+.dark .entry-title h4 a:hover {
 	color: #26676b;
 }
 
-.entry-title h2 a:hover, .entry-title h3 a:hover, .entry-title h4 a:hover {
+.entry-title h2 a:hover,
+.entry-title h3 a:hover,
+.entry-title h4 a:hover {
 	color: #26676b;
 }
+
+.grid-filter li.activeFilter a {
+	background-color: #26676b;
+}
+
+.grid-filter li.activeFilter a:hover {
+	background-color: #43444b;
+}
+
+.grid-shuffle:hover {
+	background-color: #26676b;
+}
+
+.breadcrumb a:hover {
+	color: #26676b;
+}
+
+.button {
+	background-color: #26676b;
+}
+
+.button.button-3d:hover {
+	background-color: #43444b;
+}
+
+
