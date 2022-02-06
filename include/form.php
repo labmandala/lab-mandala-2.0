@@ -1,5 +1,8 @@
 <?php
 
+// Report all errors
+// error_reporting(E_ALL);
+
 /*-------------------------------------------------
 
 	Form Processor Plugin
